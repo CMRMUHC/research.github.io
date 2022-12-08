@@ -1,0 +1,653 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 79px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}.u-section-2 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-2 .u-video-1 {
+  width: 570px;
+  height: 321px;
+  margin: 27px auto 0 0;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-2 .u-video-2 {
+  width: 570px;
+  height: 321px;
+  margin: -321px 0 35px auto;
+}
+
+.u-section-2 .embed-responsive-2 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 470px;
+    height: 264px;
+  }
+
+  .u-section-2 .u-video-2 {
+    margin-top: -264px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 310px;
+  }
+
+  .u-section-2 .u-video-2 {
+    width: 540px;
+    height: 304px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 124px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 340px;
+    height: 191px;
+  }
+
+  .u-section-2 .u-video-2 {
+    width: 340px;
+    height: 191px;
+    margin-top: -191px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 319px;
+}
+
+.u-section-3 .u-line-1 {
+  left: auto;
+  top: 43px;
+  position: absolute;
+  height: 227px;
+  transform-origin: center top 0px;
+  right: 567px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 20px 40px 0 auto;
+}
+
+.u-section-3 .u-text-2 {
+  margin: -39px 623px 0 30px;
+}
+
+.u-section-3 .u-custom-html-1 {
+  margin-top: 79px;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-video-1 {
+  width: 424px;
+  height: 168px;
+  margin: -65px auto 0 62px;
+}
+
+.u-section-3 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-3 .u-text-3 {
+  margin: -96px 52px 60px auto;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-line-1 {
+    width: 292px;
+    transform-origin: left center 0px;
+    margin: 71px 321px 0 auto;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-right: 453px;
+    margin-left: 14px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-top: -97px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-2 {
+    margin-right: 233px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-line-1 {
+    margin-right: 248px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 59px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: -77px;
+    margin-right: 53px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 285px;
+  }
+
+  .u-section-3 .u-line-1 {
+    margin-right: 48px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 33px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: -64px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-custom-html-1 {
+    margin-top: 116px;
+  }
+
+  .u-section-3 .u-video-1 {
+    width: 340px;
+    height: 134px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-top: -88px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 52px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 0 848px 13px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 481px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 343px;
+    margin-right: 648px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 404px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 266px;
+    margin-right: 428px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 911px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 773px;
+    margin-right: 248px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 629px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 491px;
+    margin-right: 48px;
+  }
+} .u-section-5 {
+  min-height: 318px;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 1075px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  width: 550px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-5 .u-layout-cell-1 {
+  min-height: 345px;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-5 .u-text-1 {
+  font-weight: 700;
+  margin: 5px 0 0;
+}
+
+.u-section-5 .u-btn-1 {
+  border-style: none none solid;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 55px auto 0;
+  padding: 0;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 345px;
+  background-image: url("images/2018-Fischer-2-01.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-5 .u-layout-wrap-2 {
+  width: 550px;
+  margin: -345px 0 0 auto;
+}
+
+.u-section-5 .u-layout-cell-3 {
+  min-height: 345px;
+}
+
+.u-section-5 .u-container-layout-3 {
+  padding: 30px 0;
+}
+
+.u-section-5 .u-text-2 {
+  font-weight: 700;
+  margin: 5px 0 0;
+}
+
+.u-section-5 .u-btn-2 {
+  border-style: none none solid;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 55px auto 0;
+  padding: 0;
+}
+
+.u-section-5 .u-image-2 {
+  min-height: 345px;
+  background-image: url("images/2021Feb-CIRCULATIONAHA.120.052520-2-17-1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-4 {
+  padding: 30px 60px;
+}
+
+.u-section-5 .u-layout-wrap-3 {
+  width: 550px;
+  margin: 40px auto 0 0;
+}
+
+.u-section-5 .u-layout-cell-5 {
+  min-height: 345px;
+}
+
+.u-section-5 .u-container-layout-5 {
+  padding: 30px 0;
+}
+
+.u-section-5 .u-text-3 {
+  font-weight: 700;
+  margin: 39px 2px 0 -2px;
+}
+
+.u-section-5 .u-btn-3 {
+  border-style: none none solid;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 84px auto 0;
+  padding: 0;
+}
+
+.u-section-5 .u-image-3 {
+  min-height: 345px;
+  background-image: url("images/2021June-Hillier-Friedrich2021_Article_ThePotentialOfOxygenation-Sens1-01.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-6 {
+  padding: 30px 60px;
+}
+
+.u-section-5 .u-layout-wrap-4 {
+  width: 550px;
+  margin: -345px 0 0 auto;
+}
+
+.u-section-5 .u-layout-cell-7 {
+  min-height: 345px;
+}
+
+.u-section-5 .u-container-layout-7 {
+  padding: 30px 0;
+}
+
+.u-section-5 .u-text-4 {
+  font-weight: 700;
+  margin: 5px 0 0;
+}
+
+.u-section-5 .u-btn-4 {
+  border-style: none none solid;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 55px auto 0;
+  padding: 0;
+}
+
+.u-section-5 .u-image-4 {
+  min-height: 345px;
+  background-image: url("images/2022-Fischeretal.-InsightsIntoMyocardialOxygenationandCardiovas-01.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-8 {
+  padding: 30px 60px;
+}
+
+.u-section-5 .u-layout-wrap-5 {
+  width: 550px;
+  margin: 5px auto 0;
+}
+
+.u-section-5 .u-layout-cell-9 {
+  min-height: 357px;
+}
+
+.u-section-5 .u-container-layout-9 {
+  padding: 30px 0;
+}
+
+.u-section-5 .u-text-5 {
+  font-weight: 700;
+  margin: 39px 2px 0 -2px;
+}
+
+.u-section-5 .u-btn-5 {
+  border-style: none none solid;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 52px auto 0;
+  padding: 0;
+}
+
+.u-section-5 .u-image-5 {
+  min-height: 345px;
+  background-image: url("images/HillierOS-CMRjove-protocol-64149-oxygenation-sensitive-cardiac-mri-with-vasoactive-breathing-maneuvers-01.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-container-layout-10 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-layout-wrap-1 {
+    width: 470px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 365px;
+  }
+
+  .u-section-5 .u-layout-wrap-2 {
+    width: 470px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 365px;
+  }
+
+  .u-section-5 .u-layout-wrap-3 {
+    width: 470px;
+  }
+
+  .u-section-5 .u-image-3 {
+    min-height: 365px;
+  }
+
+  .u-section-5 .u-layout-wrap-4 {
+    width: 470px;
+  }
+
+  .u-section-5 .u-image-4 {
+    min-height: 365px;
+  }
+
+  .u-section-5 .u-layout-wrap-5 {
+    width: 470px;
+  }
+
+  .u-section-5 .u-image-5 {
+    min-height: 365px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-5 {
+    min-height: 66px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-container-layout-4 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-5 .u-layout-cell-5 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-container-layout-6 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-5 .u-layout-cell-7 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-container-layout-8 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-5 .u-layout-cell-9 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-container-layout-10 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 3235px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 730px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-3 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 730px;
+  }
+
+  .u-section-5 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-5 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-5 .u-image-3 {
+    min-height: 730px;
+  }
+
+  .u-section-5 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-7 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-5 .u-image-4 {
+    min-height: 730px;
+  }
+
+  .u-section-5 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-9 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-5 .u-image-5 {
+    min-height: 730px;
+  }
+
+  .u-section-5 .u-container-layout-10 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 1980px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 426px;
+  }
+
+  .u-section-5 .u-layout-wrap-2 {
+    width: 340px;
+  }
+
+  .u-section-5 .u-image-2 {
+    min-height: 426px;
+  }
+
+  .u-section-5 .u-layout-wrap-3 {
+    width: 340px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-image-3 {
+    min-height: 426px;
+  }
+
+  .u-section-5 .u-layout-wrap-4 {
+    width: 340px;
+  }
+
+  .u-section-5 .u-image-4 {
+    min-height: 426px;
+  }
+
+  .u-section-5 .u-layout-wrap-5 {
+    width: 340px;
+  }
+
+  .u-section-5 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-image-5 {
+    min-height: 426px;
+  }
+}
