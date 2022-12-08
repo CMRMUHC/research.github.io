@@ -38448,21 +38448,20 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    width: 540px;
-    height: auto;
-    margin: initial;
+    height: 128px;
+    margin-top: -2px;
+    margin-bottom: 2px;
+    width: auto;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
   }
 }
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
     min-height: 92px;
-  }
-
-  .u-header .u-image-1 {
-    width: 340px;
-    height: auto;
-    margin: initial;
   }
 }
 
